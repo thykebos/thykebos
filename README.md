@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **cagriibis34@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/ahmet-çağrı-ibiş-669049220/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
