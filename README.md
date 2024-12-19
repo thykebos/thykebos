@@ -1,6 +1,6 @@
 ![1699947080275](https://github.com/thykebos/thykebos/assets/148050997/def40534-0bbc-45dc-819d-0102a8d0ba96)
 ### Hi, I'm Çağrı İbiş  👋
-<h3 align="center">A passionate backend developer from Turkiye</h3>
+<h3 align="center">A passionate Junior Developer from Turkiye</h3>
 
 - 💬 Ask me about **Python**
 
