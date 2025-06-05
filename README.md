@@ -32,7 +32,7 @@ Markdown
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   </a>
   <a href="https://www.odoo.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/odoo/odoo-original.svg](https://upload.wikimedia.org/wikipedia/commons/a/a7/Odoo_Official_Logo.png" alt="odoo" width="40" height="40"/>
+    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/odoo/odoo-original.svg](https://upload.wikimedia.org/wikipedia/commons/a/a7/Odoo_Official_Logo.png](https://www.odoo-bs.com/web/image/1597638-7d4deba1/Odoo.webp)" alt="odoo" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
