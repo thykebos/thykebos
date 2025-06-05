@@ -11,10 +11,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-Elbette! Bu ikonları GitHub profilinize veya bir projenizin README dosyasına eklerken kullanabileceğiniz düzgün bir markdown kodu aşağıda. Hem Python, Qt, ve SQLite'ı hem de eklemek istediğiniz C#, PostgreSQL, Odoo, CSS ve HTML'i içeriyor.
-
-Markdown
-
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -32,7 +28,7 @@ Markdown
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   </a>
   <a href="https://www.odoo.com/" target="_blank" rel="noreferrer">
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/odoo/odoo-original.svg](https://upload.wikimedia.org/wikipedia/commons/a/a7/Odoo_Official_Logo.png](https://www.odoo-bs.com/web/image/1597638-7d4deba1/Odoo.webp)" alt="odoo" width="40" height="40"/>
+    <img src="https://www.odoo-bs.com/web/image/1597642-f935897f/odoo%20logo.webp" alt="odoo" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
