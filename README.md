@@ -11,32 +11,36 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-&lt;p align="left">
-&lt;a href="https://www.python.org" target="_blank" rel="noreferrer">
-&lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-&lt;/a>
-&lt;a href="https://www.qt.io/" target="_blank" rel="noreferrer">
-&lt;img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
-&lt;/a>
-&lt;a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-&lt;img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-&lt;/a>
-&lt;a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-&lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-&lt;/a>
-&lt;a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-&lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-&lt;/a>
-&lt;a href="https://www.odoo.com/" target="_blank" rel="noreferrer">
-&lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/odoo/odoo-original.svg" alt="odoo" width="40" height="40"/>
-&lt;/a>
-&lt;a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
-&lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-&lt;/a>
-&lt;a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-&lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-&lt;/a>
-&lt;/p>
+Elbette! Bu ikonları GitHub profilinize veya bir projenizin README dosyasına eklerken kullanabileceğiniz düzgün bir markdown kodu aşağıda. Hem Python, Qt, ve SQLite'ı hem de eklemek istediğiniz C#, PostgreSQL, Odoo, CSS ve HTML'i içeriyor.
+
+Markdown
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.odoo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/odoo/odoo-original.svg" alt="odoo" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  </a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thykebos&show_icons=true&locale=en&layout=compact" alt="thykebos" /></p>
 
